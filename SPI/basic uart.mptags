@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BACKSPACE::0x8	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	20;"	d	line:20
+BRATE::2400	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	42;"	d	line:42	file:
+BTN1::(unsignedint)BIT_6	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	27;"	d	line:27
+BTN2::(unsignedint)BIT_7	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	28;"	d	line:28
+BTN3::(unsignedint)BIT_13	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	31;"	d	line:31
+BUTTONS::(BTN1|BTN2}	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	29;"	d	line:29
+CORE_TICK_RATE::(SYS_FREQ>>1)	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	41;"	d	line:41
+CTS::_RF12	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	18;"	d	line:18
+Clrscreen	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	246;"	f	line:246	signature:(int Device)
+Clrscreen	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	29;"	p	line:29	file:	signature:(int Device)
+Dbuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	54;"	l	line:54
+DisBuffer	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	20;"	s	line:20	file:
+DisplayBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	227;"	f	line:227	signature:(int Device, buffer *Buff, int line)
+DisplayBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	27;"	p	line:27	file:	signature:(int Device, buffer *Buff,int line)
+FPB::(SYS_FREQ/PB_DIV)	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	42;"	d	line:42
+IniBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	215;"	f	line:215	signature:(buffer *Buff)
+IniBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	26;"	p	line:26	file:	signature:(buffer *Buff)
+LED1::(unsignedint)BIT_12	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	33;"	d	line:33
+LED2::(unsignedint)BIT_13	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	34;"	d	line:34
+LED3::(unsignedint)BIT_14	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	35;"	d	line:35
+LED4::(unsignedint)BIT_15	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	36;"	d	line:36
+LEDA::(unsignedint)BIT_2	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	12;"	d	line:12
+LEDB::(unsignedint)BIT_3	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	13;"	d	line:13
+LEDC::(unsignedint)BIT_4	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	14;"	d	line:14
+LEDD::(unsignedint)BIT_6	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	15;"	d	line:15
+LEDE::(unsignedint)BIT_7	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	16;"	d	line:16
+LEDF::(unsignedint)BIT_8	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	17;"	d	line:17
+LEDG::(unsignedint)BIT_9	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	18;"	d	line:18
+LEDH::(unsignedint)BIT_10	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	19;"	d	line:19
+LoadBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	236;"	f	line:236	signature:(char *string, BYTE row, buffer *Buff,int slen)
+LoadBuff	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	28;"	p	line:28	file:	signature:(char *string, BYTE row, buffer *Buff,int slen)
+MoveRow	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	256;"	f	line:256	signature:(int Device, int row)
+MoveRow	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	30;"	p	line:30	file:	signature:(int Device,int row)
+PB_DIV::2	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	40;"	d	line:40
+PRESCALE::256	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	45;"	d	line:45
+RBLEDS::(LEDA|LEDB|LEDC|LEDD|SM1|SM2|S	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	25;"	d	line:25
+RGLEDS::(LED1|LED2|LED3|LED4)	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	37;"	d	line:37
+RTS::_RF13	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	19;"	d	line:19
+SM1::LEDE	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	20;"	d	line:20
+SM2::LEDF	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	21;"	d	line:21
+SM3::LEDG	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	22;"	d	line:22
+SM4::LEDH	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	23;"	d	line:23
+SYS_FREQ::(80000000UL)	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	39;"	d	line:39
+T1_TICK::(SYS_FREQ/PB_DIV/PRESCALE/TOGG	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	47;"	d	line:47
+TOGGLES_PER_SEC::1000	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	46;"	d	line:46
+_UART1	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	14;"	d	line:14
+__CEREBOT32MX7__	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\Cerebot32mx7.h	10;"	d	line:10
+__CONU1	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	13;"	d	line:13
+_mon_putc	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	46;"	p	line:46	signature:(char c)
+buffer	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	23;"	t	line:23	file:
+c1	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	55;"	l	line:55
+c2	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	56;"	l	line:56
+c3	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	57;"	l	line:57
+c4	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	58;"	l	line:58
+clrscr::puts("	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	41;"	d	line:41
+device	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	53;"	l	line:53
+getU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	171;"	f	line:171	signature:( int Device)
+getU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	30;"	p	line:30	signature:(int Device)
+i	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	216;"	l	line:216
+i	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	228;"	l	line:228
+i	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	237;"	l	line:237
+i	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	247;"	l	line:247
+i	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	257;"	l	line:257
+initU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	120;"	f	line:120	signature:(int Device)
+initU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	23;"	p	line:23	signature:(int Device)
+j	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	217;"	l	line:217
+line	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	22;"	m	line:22	struct:DisBuffer	file:
+main	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	45;"	f	line:45	signature:(void)
+putU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	146;"	f	line:146	signature:(int Device, int c)
+putU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	27;"	p	line:27	signature:(int Device, int c)
+putsU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	194;"	f	line:194	signature:( int Device, const char *s)
+putsU	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.h	33;"	p	line:33	signature:( int Device, const char *s)
+spi	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	138;"	f	line:138	signature:(int Device)
+spi	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	31;"	p	line:31	file:	signature:(int Device)
+szClearScreen	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	16;"	v	line:16	file:
+szGotoLine1	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	17;"	v	line:17	file:
+szGotoLine2	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	18;"	v	line:18	file:
+temp	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	172;"	l	line:172
+weaktimer	C:\Users\bubba\Documents\Embedded Class\Source Code\Cerebot MX7 PIC\SPI\SPI  UART and CLS demo\revised_spi_uart_cls_demo\CONU1.c	59;"	l	line:59
